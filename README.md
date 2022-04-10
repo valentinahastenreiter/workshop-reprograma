@@ -15,7 +15,7 @@ A [{Reprograma}](https://www.reprograma.com.br/index.html) é uma iniciativa de 
 Vamos reprogramar o mundo! 
 
 ## Layout web
-![Web 1](https://github.com/valentinahastenreiter/workshop-reprograma/blob/c7424731fcdc82071fc3b57d09ba5dfc93543aea/img/pagina-full.png)
+![Web 1](https://github.com/valentinahastenreiter/workshop-reprograma/blob/6e2d6cc39c75dafd0079682e6b5272b6e499580c/img/pagina-full.png)
 
 # Tecnologias utilizadas
 
