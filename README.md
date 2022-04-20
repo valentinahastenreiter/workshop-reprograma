@@ -1,10 +1,20 @@
-# O início: WORKSHOP de seleção {Reprograma}
+<h1 align="center">
+ O início: WORKSHOP de seleção {Reprograma} 
+</h1>
+
+<br>
+
+<p align="center">
+  <a href="#house-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://portifolio-valentinahastenreiter.netlify.app/">Acesse a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
 
 ![banner](https://github.com/valentinahastenreiter/workshop-reprograma/blob/c7424731fcdc82071fc3b57d09ba5dfc93543aea/img/banner.png)
 
-# Sobre o projeto
-
-https://portifolio-valentinahastenreiter.netlify.app/
+# :house: Sobre o projeto
 
 O projeto foi desenvolvido no **Workshop de seleção para Turma On13 Front-end Todas em Tech** da [{Reprograma}](https://www.reprograma.com.br/index.html). 
 
@@ -17,7 +27,7 @@ Vamos reprogramar o mundo!
 ## Layout web
 ![Web 1](https://github.com/valentinahastenreiter/workshop-reprograma/blob/6e2d6cc39c75dafd0079682e6b5272b6e499580c/img/pagina-full.png)
 
-# Tecnologias utilizadas
+# :computer: Tecnologias utilizadas
 
 ## Front end
 - HTML / CSS 
@@ -25,8 +35,9 @@ Vamos reprogramar o mundo!
 ## Implantação 
 - Front end web: Netlify
 
-# Autora
+# :tipping_hand_person: Autora
 
 Valentina Hastenreiter Moraes
 
 https://www.linkedin.com/in/valentina-hastenreiter/
+
