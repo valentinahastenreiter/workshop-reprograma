@@ -29,11 +29,11 @@ Vamos reprogramar o mundo!
 
 # :computer: Tecnologias utilizadas
 
-## Front end
+## Front-end
 - HTML / CSS 
 
 ## Implantação 
-- Front end web: Netlify
+- Front-end web: Netlify
 
 # :tipping_hand_person: Autora
 
