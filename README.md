@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#house-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer_and_wrench-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://portifolio-valentinahastenreiter.netlify.app/">Acesse a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -24,10 +24,10 @@ A [{Reprograma}](https://www.reprograma.com.br/index.html) é uma iniciativa de 
 
 Vamos reprogramar o mundo! 
 
-## Layout web
+## :desktop_computer: Layout web
 ![Web 1](https://github.com/valentinahastenreiter/workshop-reprograma/blob/6e2d6cc39c75dafd0079682e6b5272b6e499580c/img/pagina-full.png)
 
-# :computer: Tecnologias utilizadas
+# 	:hammer_and_wrench: Tecnologias utilizadas
 
 ## Front-end
 - HTML / CSS 
